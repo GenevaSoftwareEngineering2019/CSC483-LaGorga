@@ -1,7 +1,10 @@
 Hello World
-<<<<<<< HEAD
+
+Git is a good tool
+People love it
+This is a conflict
+
 
 Hi leavesssssssssssssssssssssssssssssssssssssss
-=======
+
 hey leaves
->>>>>>> origin/master
