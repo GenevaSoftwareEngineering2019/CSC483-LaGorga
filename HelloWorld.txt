@@ -1,4 +1,5 @@
 Hello World
+<<<<<<< HEAD
 
 one of the sadiest days since 2001
 
@@ -6,8 +7,21 @@ Git is a good tool
 People love it
 This is a conflict
 
+=======
+<<<<<<< HEAD
+Git is a good tool
+People love it
+The whole world loves it
+=======
+<<<<<<< HEAD
+>>>>>>> 2d0fd59d206432e54c2c2d1ddc9202df56a28217
 
 Hi leavesssssssssssssssssssssssssssssssssssssss
 
 hey leaves
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
+>>>>>>> 2d0fd59d206432e54c2c2d1ddc9202df56a28217
