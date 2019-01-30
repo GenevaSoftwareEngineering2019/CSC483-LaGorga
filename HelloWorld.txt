@@ -3,6 +3,8 @@ Hello World
 
 one of the sadiest days since 2001
 
+Well then, seems like this may work.
+
 Git is a good tool
 People love it
 This is a conflict
